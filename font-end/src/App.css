@@ -1,0 +1,22 @@
+.header-background {
+  background-color: none;
+}
+.sub-header-background {
+  margin-bottom: 10px;
+}
+
+.header-text {
+  color: #282c34;
+}
+.rating span {
+  color: yellow;
+}
+.btnAddCart {
+  justify-content: 'center';
+  align-items: 'center';
+  background-color: beige;
+  text-align: center;
+}
+.img-large {
+  max-width: 100%;
+}
